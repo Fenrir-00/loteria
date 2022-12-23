@@ -7,11 +7,11 @@ pkg install git
 pkg install python
 ```
 ```bash
-git clone https://github.com/Fenrir-00/investigar-web
+git clone https://github.com/Fenrir-00/loteria
 ```
 ```bash
-cd investigar-web
+cd loteria
 ```
 ```bash
-python3 proyecto.py
+python3 loteria.py
 ```
